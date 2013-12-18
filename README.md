@@ -1,4 +1,14 @@
 time-caculator-1
 ================
 
-ARCHIVED REPO (outdated)
+##Archive Date
+
+2004
+
+##Overview
+
+Created as a personal application.  Use a desktop console application to calculate time.
+
+##Technologies
+
+C++
